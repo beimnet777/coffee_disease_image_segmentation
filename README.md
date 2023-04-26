@@ -1,1 +1,1 @@
-# coffe_disease_image_segmentation
+# coffee_disease_image_segmentation
